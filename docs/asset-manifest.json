@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.cfa85d8d.js",
-    "static/js/787.82583ab5.chunk.js": "/static/js/787.82583ab5.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.cfa85d8d.js.map": "/static/js/main.cfa85d8d.js.map",
-    "787.82583ab5.chunk.js.map": "/static/js/787.82583ab5.chunk.js.map"
+    "main.css": "https://wolfgangmeyers.github.io/generated-artist-styles/static/css/main.073c9b0a.css",
+    "main.js": "https://wolfgangmeyers.github.io/generated-artist-styles/static/js/main.42b5b2f5.js",
+    "static/js/787.82583ab5.chunk.js": "https://wolfgangmeyers.github.io/generated-artist-styles/static/js/787.82583ab5.chunk.js",
+    "index.html": "https://wolfgangmeyers.github.io/generated-artist-styles/index.html",
+    "main.073c9b0a.css.map": "https://wolfgangmeyers.github.io/generated-artist-styles/static/css/main.073c9b0a.css.map",
+    "main.42b5b2f5.js.map": "https://wolfgangmeyers.github.io/generated-artist-styles/static/js/main.42b5b2f5.js.map",
+    "787.82583ab5.chunk.js.map": "https://wolfgangmeyers.github.io/generated-artist-styles/static/js/787.82583ab5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cfa85d8d.js"
+    "static/js/main.42b5b2f5.js"
   ]
 }

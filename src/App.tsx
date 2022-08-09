@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import InfiniteScroll from "react-infinite-scroll-component";
 import artists from "./artists";
