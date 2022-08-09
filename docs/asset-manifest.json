@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://wolfgangmeyers.github.io/generated-artist-styles/static/css/main.073c9b0a.css",
-    "main.js": "https://wolfgangmeyers.github.io/generated-artist-styles/static/js/main.42b5b2f5.js",
-    "static/js/787.82583ab5.chunk.js": "https://wolfgangmeyers.github.io/generated-artist-styles/static/js/787.82583ab5.chunk.js",
-    "index.html": "https://wolfgangmeyers.github.io/generated-artist-styles/index.html",
-    "main.073c9b0a.css.map": "https://wolfgangmeyers.github.io/generated-artist-styles/static/css/main.073c9b0a.css.map",
-    "main.42b5b2f5.js.map": "https://wolfgangmeyers.github.io/generated-artist-styles/static/js/main.42b5b2f5.js.map",
-    "787.82583ab5.chunk.js.map": "https://wolfgangmeyers.github.io/generated-artist-styles/static/js/787.82583ab5.chunk.js.map"
+    "main.css": "https://styles.paint.digital/static/css/main.073c9b0a.css",
+    "main.js": "https://styles.paint.digital/static/js/main.9fb4e117.js",
+    "static/js/787.82583ab5.chunk.js": "https://styles.paint.digital/static/js/787.82583ab5.chunk.js",
+    "index.html": "https://styles.paint.digital/index.html",
+    "main.073c9b0a.css.map": "https://styles.paint.digital/static/css/main.073c9b0a.css.map",
+    "main.9fb4e117.js.map": "https://styles.paint.digital/static/js/main.9fb4e117.js.map",
+    "787.82583ab5.chunk.js.map": "https://styles.paint.digital/static/js/787.82583ab5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.42b5b2f5.js"
+    "static/js/main.9fb4e117.js"
   ]
 }
